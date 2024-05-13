@@ -5,10 +5,10 @@ Script Python para Cálculo de IRPF do MEI
 Este repositório contém um script Python que auxilia Microempreendedores Individuais (MEIs) a calcular seu imposto de renda e entender se são obrigados a declarar o IRPF.
 
 * Funcionalidades
-  I.  Calcula o lucro evidenciado, a parcela isenta e a parcela tributável do lucro do MEI.
-  II.  Verifica se o MEI é obrigado a declarar o IRPF com base na parcela tributável e na receita bruta anual.
-  III.  Fornece orientações sobre como preencher as fichas relevantes na declaração do IRPF, caso necessário.
-  IV.  Considera diferentes ramos de atividade (Indústria, Comércio e Serviços) e aplica os percentuais de isenção correspondentes.
+  **  Calcula o lucro evidenciado, a parcela isenta e a parcela tributável do lucro do MEI.
+  **  Verifica se o MEI é obrigado a declarar o IRPF com base na parcela tributável e na receita bruta anual.
+  **  Fornece orientações sobre como preencher as fichas relevantes na declaração do IRPF, caso necessário.
+  **  Considera diferentes ramos de atividade (Indústria, Comércio e Serviços) e aplica os percentuais de isenção correspondentes.
  
      
 Utiliza uma tabela de IRPF para calcular o imposto de renda aproximado devido.
