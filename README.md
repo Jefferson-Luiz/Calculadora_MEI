@@ -30,5 +30,5 @@ Este script é apenas uma ferramenta de auxílio. A responsabilidade pela declar
 
 Fonte : https://oglobo.globo.com/economia/imposto-de-renda/noticia/2024/05/06/imposto-de-renda-2024-como-declarar-quem-e-mei-veja-o-passo-a-passo.ghtml
 
-### Script gerado por Google AI Studio 
+
 ![Google IA](https://github.com/Jefferson-Luiz/Calculadora_MEI/assets/169276991/729a1d73-e35a-40d6-9372-2d1da9160f32)
